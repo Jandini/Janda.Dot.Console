@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [0.3.0](http://nas/matt/Janda.Dot.Console/compare/0.2.0...0.3.0) (2020-07-17)
+
+
+### Features
+
+* Add jenkins shared library ([9c67e68](http://nas/matt/Janda.Dot.Console/commit/9c67e68b927d982a229a7ddffa57dc35e3303647))
+
 ## [0.2.0](http://nas/matt/Janda.Dot.Console/compare/0.1.0...0.2.0) (2020-07-08)
 
 
