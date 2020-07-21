@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [0.4.0](http://nas/matt/Janda.Dot.Console/compare/0.3.0...0.4.0) (2020-07-21)
+
+
+### Features
+
+* Add embedded files provider ([1fa6fad](http://nas/matt/Janda.Dot.Console/commit/1fa6fad31f7ad78131cef20ef20f73ed5f29ab92))
+
 ## [0.3.0](http://nas/matt/Janda.Dot.Console/compare/0.2.0...0.3.0) (2020-07-17)
 
 
